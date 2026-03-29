@@ -105,9 +105,9 @@
   ],
 
   "authorized_machines": [
-    "871A82A773B3",
-    "21AE53F16B41"
-  ],
+    "871A82A773B3"
+  ,
+    "21AE53F16B41"],
 
   "blocked_certs": [
   ],

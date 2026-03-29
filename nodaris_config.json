@@ -1,0 +1,62 @@
+{
+  "signatures_url": "",
+  "github_repo": "",
+  "github_file": "nodaris_config.json",
+
+  "processes": [
+    "gameguardian", "gg_client", "gg_srv", "flyinghack",
+    "noxplayer", "ldplayer", "speedhack", "cheatengine", "ce_helper",
+    "aimbot", "triggerbot", "esp_client", "wallhack", "speedmod",
+    "fluxus", "krnl", "synapse", "deltaexe"
+  ],
+
+  "files": [
+    "gameguardian.apk", "gg_client.apk", "flyinghack.apk",
+    "modmenu.apk", "hacktool.apk", "speedhack.apk", "cheat.apk",
+    "injector.apk", "aimbot.apk", "wallhack.apk",
+    "loader.dll", "injector.dll", "bypass.dll"
+  ],
+
+  "drivers": {
+    "gdrv": "CRITICAL",
+    "msio64": "CRITICAL",
+    "rtcore64": "CRITICAL",
+    "dbutil2_kernel": "CRITICAL",
+    "capcom": "CRITICAL",
+    "winio": "HIGH",
+    "phymemx": "HIGH",
+    "dbk64": "CRITICAL",
+    "iqvw64e": "CRITICAL",
+    "asio": "HIGH"
+  },
+
+  "trusted_publishers": [
+    "Microsoft", "Windows",
+    "BlueStack", "now.gg", "Bluestack Systems",
+    "Google", "Mozilla", "Opera", "Adobe", "Autodesk",
+    "Intel", "AMD", "NVIDIA", "Realtek", "Qualcomm", "Broadcom",
+    "GIGABYTE", "GIGA-BYTE", "Micro-Star", "MSI", "ASUSTeK", "ASUS",
+    "Dell", "Hewlett", "Lenovo", "Samsung", "Logitech", "Razer",
+    "Corsair", "SteelSeries", "HyperX",
+    "Oracle", "Java", "Python Software", "Node.js", "JetBrains",
+    "Valve", "Steam", "Epic Games", "Riot Games", "Garena",
+    "Electronic Arts", "Ubisoft", "Activision", "Blizzard",
+    "CPUID", "Piriform", "WinRAR", "7-Zip", "GIMP",
+    "VideoLAN", "Audacity", "OBS", "Discord",
+    "Apple", "Spotify", "Zoom", "Dropbox", "WireGuard"
+  ],
+
+  "trusted_domains": [
+    "microsoft.com", "windows.com", "live.com",
+    "google.com", "googleapis.com", "gstatic.com",
+    "bluestacks.com", "now.gg",
+    "steam-chat.com", "steamcommunity.com", "steampowered.com",
+    "discordapp.com", "discord.gg", "discord.com",
+    "github.com", "githubusercontent.com",
+    "cloudflare.com", "akamai.net", "amazonaws.com",
+    "garena.com", "ff.garena.com"
+  ],
+
+  "blocked_certs": [
+  ]
+}

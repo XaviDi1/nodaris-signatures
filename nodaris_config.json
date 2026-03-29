@@ -26,7 +26,14 @@
     "freedom", "creehack", "leodroidhack",
     "artmoney", "tsearch", "l2phx",
     "wpe_pro", "wpepro", "packet_editor",
-    "autohotkey", "ahk_executor"
+    "autohotkey", "ahk_executor",
+    "blaze", "blaze-x", "blazex",
+    "ruok_ff", "ruok", "bellara",
+    "sharpshooter", "headhunter",
+    "panel_vip", "vip_panel", "panel_hack",
+    "ff_tool", "ff_panel", "ff_loader",
+    "freefire_hack", "freefire_mod",
+    "regedit_ff", "config_ff"
   ],
 
   "files": [
@@ -87,10 +94,19 @@
     "garena.com", "ff.garena.com"
   ],
 
+  "cheat_domains": [
+    "blazex.shop", "blazex.cc", "blazex.io",
+    "panelff.com", "panelvip.com", "panel-ff.com",
+    "headshot-ff.com", "aimbot-ff.com",
+    "freefiremod.com", "freefire-hack.com", "ff-mod.com",
+    "modmenu-ff.com", "hackff.com", "hack-ff.com",
+    "ruok-ff.com", "bellara-ff.com",
+    "gameguardian.net", "cheatengine.org"
+  ],
+
   "authorized_machines": [
     "871A82A773B3"
-  ,
-    "21AE53F16B41"],
+  ],
 
   "blocked_certs": [
   ],

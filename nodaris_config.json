@@ -1,6 +1,6 @@
 {
-  "signatures_url": "",
-  "github_repo": "",
+  "signatures_url": "https://raw.githubusercontent.com/XaviDi1/nodaris-signatures/main/nodaris_config.json",
+  "github_repo": "XaviDi1/nodaris-signatures",
   "github_file": "nodaris_config.json",
 
   "processes": [

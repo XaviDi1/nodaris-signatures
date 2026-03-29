@@ -7,14 +7,44 @@
     "gameguardian", "gg_client", "gg_srv", "flyinghack",
     "noxplayer", "ldplayer", "speedhack", "cheatengine", "ce_helper",
     "aimbot", "triggerbot", "esp_client", "wallhack", "speedmod",
-    "fluxus", "krnl", "synapse", "deltaexe"
+    "fluxus", "krnl", "synapse", "deltaexe",
+    "imgui_overlay", "imgui_render", "esp_overlay", "radar_hack",
+    "freefiremod", "ff_hack", "ff_mod", "ff_esp", "ff_aimbot",
+    "headshot_tool", "auto_headshot", "norecoil_tool",
+    "panel_ff", "vip_mod", "regedit_hack", "memory_editor",
+    "processhacker", "process_hacker", "x64dbg", "x32dbg",
+    "ollydbg", "ida64", "ida32", "ghidra",
+    "httpdebugger", "fiddler", "charles",
+    "dnspy", "de4dot", "ilspy",
+    "bluestacks_tweaker", "bs_tweaker", "bstweaker",
+    "lucky_patcher", "luckypatcher",
+    "game_killer", "gamekiller", "game_guardian",
+    "sb_game_hacker", "sbgamehacker",
+    "xmodgames", "xmod", "igg_gameguard",
+    "parallel_space", "dual_space", "clone_app",
+    "httpcatcher", "http_injector", "httpinjector",
+    "freedom", "creehack", "leodroidhack",
+    "artmoney", "tsearch", "l2phx",
+    "wpe_pro", "wpepro", "packet_editor",
+    "autohotkey", "ahk_executor"
   ],
 
   "files": [
     "gameguardian.apk", "gg_client.apk", "flyinghack.apk",
     "modmenu.apk", "hacktool.apk", "speedhack.apk", "cheat.apk",
     "injector.apk", "aimbot.apk", "wallhack.apk",
-    "loader.dll", "injector.dll", "bypass.dll"
+    "loader.dll", "injector.dll", "bypass.dll",
+    "ff_mod.apk", "ff_hack.apk", "ff_esp.apk", "headshot.apk",
+    "auto_headshot.apk", "norecoil.apk", "panel_ff.apk",
+    "vip_ff.apk", "diamond_hack.apk", "garena_mod.apk",
+    "luckypatcher.apk", "lucky_patcher.apk",
+    "gamekiller.apk", "game_killer.apk",
+    "sbgamehacker.apk", "xmodgames.apk",
+    "freedom.apk", "creehack.apk",
+    "imgui_impl.dll", "overlay.dll", "esp.dll", "radar.dll",
+    "d3d_hook.dll", "dxgi_hook.dll", "opengl_hook.dll",
+    "minhook.dll", "detours.dll",
+    "cheatengine-x86_64.exe", "cheatengine.exe"
   ],
 
   "drivers": {
@@ -58,5 +88,23 @@
   ],
 
   "blocked_certs": [
+  ],
+
+  "auto_whitelist": [
+    "rawaccel.exe"
+  ,
+    "attack shark driver v4.exe"
+  ,
+    "firefox.exe"
+  ,
+    "code.exe"
+  ,
+    "fortniteclient-win64-shipping_eac_eos.exe"
+  ,
+    "fortniteclient-win64-shipping.exe"
+  ,
+    "crosshairx.exe"
+  ,
+    "docker desktop installer.exe"
   ]
 }

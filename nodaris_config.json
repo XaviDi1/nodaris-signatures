@@ -87,6 +87,10 @@
     "garena.com", "ff.garena.com"
   ],
 
+  "authorized_machines": [
+    "871A82A773B3"
+  ],
+
   "blocked_certs": [
   ],
 
@@ -106,5 +110,9 @@
     "crosshairx.exe"
   ,
     "docker desktop installer.exe"
+  ,
+    "claude.exe"
+  ,
+    "Carpeta compartida activa:8393c228b726a792ad4778fcc5b1c620e71f28f9ffaaa2be3c07531f7e883367"
   ]
 }

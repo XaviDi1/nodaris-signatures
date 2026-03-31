@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "created": "2026-03-30 20:30:42",
+  "scan_count": 1,
+  "allowlist": [],
+  "false_positives": [],
+  "techniques_observed": [],
+  "new_publishers": ["anthropic, pbc","opera norway as","anthropic, pbc","opera norway as","razer usa ltd.","opera norway as","razer usa ltd.","microsoft windows publisher","anthropic, pbc","giga-byte technology co., ltd.","giga-byte technology co., ltd.","opera norway as","opera norway as","opera norway as","opera norway as","razer usa ltd.","epic games inc.","epic games inc.","razer usa ltd.","razer usa ltd.","razer usa ltd.","razer usa ltd.","opera norway as","razer usa ltd.","razer usa ltd.","anthropic, pbc","razer usa ltd.","razer usa ltd.","epic games inc.","epic games inc.","epic games inc.","epic games inc.","razer usa ltd.","giga-byte technology co., ltd.","anthropic, pbc","anthropic, pbc","anthropic, pbc","anthropic, pbc","anthropic, pbc","anthropic, pbc","opera norway as","opera norway as","anthropic, pbc","opera norway as","opera norway as","opera norway as","opera norway as","opera norway as","opera norway as","anthropic, pbc","opera norway as","opera norway as","opera norway as"],
+  "scan_history": [
+    {"date":"2026-03-30 20:30:42","score":100,"verdict":"CHEAT CONFIRMADO","findings":73,"chains":2,"action":"block_session"}
+  ]
+}

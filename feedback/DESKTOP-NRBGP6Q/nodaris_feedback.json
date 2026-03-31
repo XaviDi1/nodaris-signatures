@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "created": "2026-03-30 20:41:47",
+  "scan_count": 1,
+  "allowlist": [],
+  "false_positives": [],
+  "techniques_observed": [],
+  "new_publishers": ["google llc","realtek semiconductor corp.","realtek semiconductor corp.","realtek semiconductor corp.","google llc","google llc","google llc","google llc","google llc","google llc","google llc","google llc","google llc","google llc"],
+  "scan_history": [
+    {"date":"2026-03-30 20:41:47","score":95,"verdict":"CHEAT CONFIRMADO","findings":91,"chains":0,"action":"block_session"}
+  ]
+}
